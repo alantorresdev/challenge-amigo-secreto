@@ -15,7 +15,7 @@ Este challenge se basó en el desarrollo de una aplicación web del juego del "a
 ## 🚀 Demo
 [🔗 Ver proyecto en línea](https://alantorresdev.github.io/challenge-amigo-secreto/)
 
-<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/1f2fa5ae-9fe8-42bc-b487-09f4fe3ccaaf" />
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/a50f7593-fff0-4f3c-ab6d-278528929743" />
 
 ---
 
