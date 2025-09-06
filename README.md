@@ -35,9 +35,7 @@ Explicación breve de cómo está organizado:
 
 ## Autor
 
-Alan Isaac Torres Martínez
-
-LinkedIn: linkedin.com/in/alan-torresm
-
-GitHub: @alantorresdev
+> **Alan Isaac Torres Martínez**  
+> 💼 [LinkedIn](https://www.linkedin.com/in/alan-torresm)  
+> 💻 [GitHub](https://github.com/alantorresdev)  
 ---
