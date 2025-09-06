@@ -34,7 +34,10 @@ Explicación breve de cómo está organizado:
 - JavaScript  
 
 ## Autor
+
 Alan Isaac Torres Martínez
+
 LinkedIn: linkedin.com/in/alan-torresm
+
 GitHub: @alantorresdev
 ---
