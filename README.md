@@ -33,7 +33,7 @@ Explicación breve de cómo está organizado:
 - CSS3  
 - JavaScript  
 
-## Autor
+## 👤 Autor
 
 > **Alan Isaac Torres Martínez**  
 > 💼 [LinkedIn](https://www.linkedin.com/in/alan-torresm)  
