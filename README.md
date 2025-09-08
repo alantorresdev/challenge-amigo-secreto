@@ -2,6 +2,8 @@
 
 Este challenge se basó en el desarrollo de una aplicación web del juego del "amigo secreto", donde el usuario puede insertar los nombres que quiera añadir y escoger uno de estos amigos al azar para que sea mostrado como el amigo secreto. 
 
+---
+
 ## 📌 Funcionalidades
 - Añadir nombres para ser almacenados
 - Mostrar la lista de nombres almacenados
@@ -32,6 +34,8 @@ Explicación breve de la organización del proyecto:
 - HTML5  
 - CSS3  
 - JavaScript
+
+---
 
 ## 👤 Autor
 
