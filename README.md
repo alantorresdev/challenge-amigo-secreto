@@ -37,6 +37,18 @@ Explicación breve de la organización del proyecto:
 
 ---
 
+## ⚙ Instalación y uso
+
+1. Clona este repositorio en tu computadora:
+   ```bash
+   git clone https://github.com/alantorresdev/challenge-amigo-secreto.git
+2. Abre la carpeta del proyecto:
+   ```bash
+   cd challenge-amigo-secreto.git
+3. Abre el archivo index.html en el navegador de tu preferencia.
+
+--- 
+
 ## 👤 Autor
 
 **Alan Isaac Torres Martínez**  
