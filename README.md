@@ -15,12 +15,12 @@ Este challenge se basó en el desarrollo de una aplicación web del juego del "a
 ## 🚀 Demo
 [🔗 Ver proyecto en línea](https://alantorresdev.github.io/challenge-amigo-secreto/)
 
-<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/a50f7593-fff0-4f3c-ab6d-278528929743" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/b58d2d5c-c11d-4c19-84df-2c73d07633ad" />
 
 ---
 
 ## 📂 Estructura del Proyecto
-Explicación breve de cómo está organizado:
+Explicación breve de la organización del proyecto:
 - `index.html` → Página principal
 - `style.css` → Estilos de la página
 - `script.js` → Lógica del proyecto
@@ -31,7 +31,7 @@ Explicación breve de cómo está organizado:
 ## 🛠️ Tecnologías Utilizadas
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
 
 ## 👤 Autor
 
